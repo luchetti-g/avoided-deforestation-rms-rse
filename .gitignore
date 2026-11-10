@@ -1,0 +1,8 @@
+# Large input rasters (available from public sources, see README)
+drivers/
+lclu/
+# QGIS/OS temp files
+*.aux.xml
+~$*
+Thumbs.db
+desktop.ini
